@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27ae8057.chunk.css",
+    "main.js": "/static/js/main.0708010e.chunk.js",
+    "main.js.map": "/static/js/main.0708010e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c85fc220.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c85fc220.js.map",
+    "static/js/2.bf5d7d80.chunk.js": "/static/js/2.bf5d7d80.chunk.js",
+    "static/js/2.bf5d7d80.chunk.js.map": "/static/js/2.bf5d7d80.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.27ae8057.chunk.css.map": "/static/css/main.27ae8057.chunk.css.map",
+    "static/js/2.bf5d7d80.chunk.js.LICENSE.txt": "/static/js/2.bf5d7d80.chunk.js.LICENSE.txt",
+    "static/media/apple.ad03b1aa.svg": "/static/media/apple.ad03b1aa.svg",
+    "static/media/global.scss": "/static/media/bg_img.0e898d67.png",
+    "static/media/facebook.8c09e806.svg": "/static/media/facebook.8c09e806.svg",
+    "static/media/google.7cb7884d.svg": "/static/media/google.7cb7884d.svg",
+    "static/media/heart.268aec52.svg": "/static/media/heart.268aec52.svg",
+    "static/media/instagram.50fcf6b0.svg": "/static/media/instagram.50fcf6b0.svg",
+    "static/media/linkedin.daa8e5e4.svg": "/static/media/linkedin.daa8e5e4.svg",
+    "static/media/logo.1a7ec024.svg": "/static/media/logo.1a7ec024.svg",
+    "static/media/twitter.71f3dc0e.svg": "/static/media/twitter.71f3dc0e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c85fc220.js",
+    "static/js/2.bf5d7d80.chunk.js",
+    "static/css/main.27ae8057.chunk.css",
+    "static/js/main.0708010e.chunk.js"
+  ]
+}
