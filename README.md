@@ -10,4 +10,4 @@ Technologies:
 
 You can visite the result [here ](https://valeriyakozlova.github.io/valeriyakozlova.github.io-Welltory/)
 
-You can view the code [here] (https://github.com/ValeriyaKozlova/welltory-test-task)
+You can view the code [here](https://github.com/ValeriyaKozlova/welltory-test-task)
