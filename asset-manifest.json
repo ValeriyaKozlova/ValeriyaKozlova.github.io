@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.96180c2f.chunk.css",
+    "main.css": "/static/css/main.c457d442.chunk.css",
     "main.js": "/static/js/main.0708010e.chunk.js",
     "main.js.map": "/static/js/main.0708010e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c85fc220.js",
@@ -8,7 +8,7 @@
     "static/js/2.bf5d7d80.chunk.js": "/static/js/2.bf5d7d80.chunk.js",
     "static/js/2.bf5d7d80.chunk.js.map": "/static/js/2.bf5d7d80.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.96180c2f.chunk.css.map": "/static/css/main.96180c2f.chunk.css.map",
+    "static/css/main.c457d442.chunk.css.map": "/static/css/main.c457d442.chunk.css.map",
     "static/js/2.bf5d7d80.chunk.js.LICENSE.txt": "/static/js/2.bf5d7d80.chunk.js.LICENSE.txt",
     "static/media/apple.ad03b1aa.svg": "/static/media/apple.ad03b1aa.svg",
     "static/media/global.scss": "/static/media/bg_img.0e898d67.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.c85fc220.js",
     "static/js/2.bf5d7d80.chunk.js",
-    "static/css/main.96180c2f.chunk.css",
+    "static/css/main.c457d442.chunk.css",
     "static/js/main.0708010e.chunk.js"
   ]
 }
